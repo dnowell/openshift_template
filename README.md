@@ -1,2 +1,2 @@
-# openshift_template
-OpenShift Template
+# os-docker-build
+OpenShift Docker Build Template
